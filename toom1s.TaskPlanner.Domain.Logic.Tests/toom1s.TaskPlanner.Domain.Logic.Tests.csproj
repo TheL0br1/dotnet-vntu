@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\toom1s.TaskPlanner.Domain.Models\toom1s.TaskPlanner.Domain.Logic\toom1s.TaskPlanner.Domain.Logic.csproj" />
-    <ProjectReference Include="..\..\toom1s.TaskPlanner.Domain.Models\toom1s.TaskPlanner.Domain.Models\toom1s.TaskPlanner.Domain.Models.csproj" />
+    <ProjectReference Include="..\toom1s.TaskPlanner.Domain.Models\toom1s.TaskPlanner.Domain.Logic\toom1s.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\toom1s.TaskPlanner.Domain.Models\toom1s.TaskPlanner.Domain.Models\toom1s.TaskPlanner.Domain.Models.csproj" />
     <ProjectReference Include="..\toom1s.TaskPlanner.DataAccess.Abstractions\toom1s.TaskPlanner.DataAccess.Abstractions.csproj" />
     <ProjectReference Include="..\toom1s.TaskPlanner.DataAccess\toom1s.TaskPlanner.DataAccess.csproj" />
     <ProjectReference Include="..\toom1sTaskPlanner.ConsoleRunner\toom1sTaskPlanner.ConsoleRunner.csproj" />
